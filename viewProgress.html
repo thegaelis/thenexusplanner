@@ -4,17 +4,18 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <title>Planner Preset | The Nexus Planner</title>
+    <title>Demo's Home | The Nexus Planner</title>
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,800&amp;display=swap">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto&amp;display=swap">
+    <link rel="stylesheet" href="assets/css/aos.min.css">
     <link rel="stylesheet" href="assets/css/Account-setting-or-edit-profile.css">
     <link rel="stylesheet" href="assets/css/Footer-Dark-Multi-Column-icons.css">
 </head>
 
 <body>
     <nav class="navbar navbar-light navbar-expand-md py-3">
-        <div class="container"><a class="navbar-brand d-flex align-items-center" href="index.html"><span class="bs-icon-sm bs-icon-rounded bs-icon-primary d-flex justify-content-center align-items-center me-2 bs-icon" style="background: #FFFFFF;"><img src="assets/img/nexus_icon.jpg" style="width: 4rem;height: 4rem;"></span><span style="font-family: 'Nunito Sans', sans-serif;">NeXuS Planner</span></a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navcol-2"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+        <div class="container"><a class="navbar-brand d-flex align-items-center" href="index.html"><span class="bs-icon-sm bs-icon-rounded bs-icon-primary d-flex justify-content-center align-items-center me-2 bs-icon" style="background: #FFFFFF;"><img src="assets/img/nexus_icon.jpg" style="width: 4rem;height: 4rem;"></span><span style="font-family: 'Nunito Sans', sans-serif;">NeXuS Planner</span></a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navcol-2" style="display: none;"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button><span>Fri, March 25&nbsp; &nbsp; <br>01:04:00 PM</span>
             <div class="collapse navbar-collapse" id="navcol-2">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item"></li>
@@ -28,11 +29,28 @@
                     <li class="nav-item"></li>
                 </ul>
             </div><img style="border-radius: 50%;background: url(&quot;https://avatars.githubusercontent.com/u/89012668?v=4&quot;);width: 50px;height: 50px;margin: 0px 10px 0px;" src="assets/img/nexus_icon.jpg">
-            <div class="dropdown"><a class="dropdown-toggle" aria-expanded="false" data-bs-toggle="dropdown" href="#">@demo&nbsp;</a>
-                <div class="dropdown-menu"><a class="dropdown-item" href="Panel.html">Demo</a><a class="dropdown-item" href="manageAccount.html">Manage Account</a><a class="dropdown-item" href="Preset.html">Preset</a><a class="dropdown-item" href="index.html">Log Out</a></div>
+            <div class="dropdown"><a class="dropdown-toggle" aria-expanded="false" data-bs-toggle="dropdown" href="Panel.html">@demo&nbsp;</a>
+                <div class="dropdown-menu"><a class="dropdown-item" href="#">Demo</a><a class="dropdown-item" href="manageAccount.html">Manage Account</a><a class="dropdown-item" href="Preset.html">Preset</a><a class="dropdown-item" href="index.html">Log Out</a></div>
             </div>
         </div>
     </nav>
+    <section class="py-5 mt-5" style="background: var(--bs-card-cap-bg);">
+        <div class="container py-4 py-xl-5" style="text-align: left;padding: 24px;">
+            <h1 data-aos="fade-up" style="font-weight: bold;text-align: center;margin: 10px 0px 60px 0px;color: #43bc43;">Your tasks</h1>
+            <div class="row text-center" data-aos="fade" data-aos-delay="200">
+                <div class="col text-start d-lg-flex justify-content-sm-start justify-content-md-start justify-content-lg-start" style="align-items: center;display: flex;">
+                    <div class="card">
+                        <div class="card-body"><a class="card-link" href="inProgress.html">Back to In Progress</a>
+                            <h2 class="card-title" style="color: #000000;">Complete CSS style for a web</h2>
+                            <h4 class="text-muted card-subtitle mb-2">Due:&nbsp;<a href="#"><span style="color: rgb(0, 0, 0); background-color: rgba(255, 255, 255, 0.5);">Sat, March 26 11:59:59 PM</span></a>&nbsp; &nbsp; &nbsp; 34:55 hours left</h4>
+                            <h4>Description:</h4>
+                            <p style="font-size: 1.5rem;">In the "Alpha" Project, the client required the font should be "Segoe UI" and the landing page for mobile device should be centered horizontally.</p><button class="btn btn-primary" type="button" style="background: #43bc43;">Mark as Done</button><button class="btn btn-primary" type="button" style="background: rgb(239,11,11);margin-left: 10px;">Remove</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     <footer class="justify-content-center" style="display: flex;">
         <div class="container py-4 py-lg-5" style="padding-top: 10px;padding-bottom: 10px;margin: 0px 10px;">
             <hr>
@@ -53,6 +71,7 @@
         </div>
     </footer>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/js/aos.min.js"></script>
     <script src="assets/js/bs-init.js"></script>
 </body>
 
