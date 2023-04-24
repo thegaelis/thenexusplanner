@@ -1,4 +1,10 @@
-NEXUS Planner V4 - Official Front-end Release
+NEXUS Planner V4.1 - Official Front-end Release
+Changelog:
+- Removed Dark mode
+- Added rtkPass and rtkCode
+
+
+NEXUS Planner V4
 
 Changelog:
 - In Manage Account, removed Company and Your Manage Person section, added Date Joined
@@ -9,3 +15,4 @@ Changelog:
 - Separated Title and Due time of the peek task in Panel
 - Separated Title and Due time of every task in inProgress, Upcoming and taskDone
 - Added a little twist change of design
+
