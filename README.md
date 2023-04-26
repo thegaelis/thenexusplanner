@@ -1,18 +1,9 @@
-NEXUS Planner V4.1 - Official Front-end Release
-Changelog:
-- Removed Dark mode
-- Added rtkPass and rtkCode
+﻿Nexus Planner _ PHP Version:
 
+Changelog in SQL:
+- Added column: UserBio in table "user"
 
-NEXUS Planner V4
-
-Changelog:
-- In Manage Account, removed Company and Your Manage Person section, added Date Joined
-- Removed Website Link field.
-- Add Task design bug fixed 
-- In Preset, removed auto switch timezone, replaced with choose timezone manually
-- Separated Time left and Due time in taskView
-- Separated Title and Due time of the peek task in Panel
-- Separated Title and Due time of every task in inProgress, Upcoming and taskDone
-- Added a little twist change of design
-
+Changelog in PHP:
+- Added the insertion of Bio in SQL 
+- Fixed the bugs in Preset page
+- Added selection of timezone in Preset

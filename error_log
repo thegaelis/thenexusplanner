@@ -1,0 +1,51 @@
+[26-Apr-2023 09:37:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1102): Incorrect database name 'thenexus_thenexusplanner	' in /home/thenexus/public_html/includes/db.php on line 8
+[26-Apr-2023 09:38:06 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1102): Incorrect database name 'thenexus_thenexusplanner	' in /home/thenexus/public_html/includes/db.php on line 8
+[26-Apr-2023 09:38:45 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1102): Incorrect database name 'thenexus_thenexusplanner	' in /home/thenexus/public_html/includes/db.php on line 8
+[26-Apr-2023 09:38:52 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1102): Incorrect database name 'thenexus_thenexusplanner	' in /home/thenexus/public_html/includes/db.php on line 8
+[26-Apr-2023 09:39:16 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1102): Incorrect database name 'thenexus_thenexusplanner	' in /home/thenexus/public_html/includes/db.php on line 8
+[26-Apr-2023 09:41:03 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1102): Incorrect database name 'thenexus_thenexusplanner	' in /home/thenexus/public_html/includes/db.php on line 8
+[26-Apr-2023 09:41:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1102): Incorrect database name 'thenexus_thenexusplanner	' in /home/thenexus/public_html/includes/db.php on line 8
+[26-Apr-2023 09:42:20 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thenexus/public_html/includes/db.php on line 8
+[26-Apr-2023 09:42:20 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thenexus/public_html/includes/db.php on line 8
+[26-Apr-2023 09:42:39 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1102): Incorrect database name 'thenexus_thenexusplanner	' in /home/thenexus/public_html/includes/db.php on line 8
+[26-Apr-2023 09:42:40 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1102): Incorrect database name 'thenexus_thenexusplanner	' in /home/thenexus/public_html/includes/db.php on line 8
+[26-Apr-2023 09:42:41 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1102): Incorrect database name 'thenexus_thenexusplanner	' in /home/thenexus/public_html/includes/db.php on line 8
+[26-Apr-2023 09:42:41 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1102): Incorrect database name 'thenexus_thenexusplanner	' in /home/thenexus/public_html/includes/db.php on line 8
+[26-Apr-2023 09:42:43 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1102): Incorrect database name 'thenexus_thenexusplanner	' in /home/thenexus/public_html/includes/db.php on line 8
+[26-Apr-2023 09:43:00 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1102): Incorrect database name 'thenexus_thenexusplanner	' in /home/thenexus/public_html/includes/db.php on line 8
+[26-Apr-2023 09:50:11 Asia/Ho_Chi_Minh] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thenexus/public_html/includes/init.php on line 2
+[26-Apr-2023 09:51:20 Asia/Ho_Chi_Minh] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thenexus/public_html/includes/init.php on line 2
+[26-Apr-2023 09:53:07 Asia/Ho_Chi_Minh] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thenexus/public_html/includes/init.php on line 2
+[26-Apr-2023 10:43:38 Asia/Ho_Chi_Minh] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thenexus/public_html/includes/init.php on line 2
+[26-Apr-2023 10:43:44 Asia/Ho_Chi_Minh] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thenexus/public_html/includes/init.php on line 2
+[26-Apr-2023 12:38:32 Asia/Ho_Chi_Minh] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thenexus/public_html/includes/init.php on line 2
+[26-Apr-2023 12:40:20 Asia/Ho_Chi_Minh] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thenexus/public_html/includes/init.php on line 2
+[26-Apr-2023 12:40:20 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thenexus/public_html/Preset.php:1) in /home/thenexus/public_html/includes/functions.php on line 49
+[26-Apr-2023 12:40:22 Asia/Ho_Chi_Minh] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thenexus/public_html/includes/init.php on line 2
+[26-Apr-2023 12:40:22 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thenexus/public_html/Preset.php:1) in /home/thenexus/public_html/includes/functions.php on line 49
+[26-Apr-2023 12:41:04 Asia/Ho_Chi_Minh] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thenexus/public_html/includes/init.php on line 2
+[26-Apr-2023 12:41:04 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thenexus/public_html/Preset.php:1) in /home/thenexus/public_html/includes/functions.php on line 49
+[26-Apr-2023 12:42:51 Asia/Ho_Chi_Minh] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thenexus/public_html/includes/init.php on line 2
+[26-Apr-2023 12:42:51 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thenexus/public_html/Preset.php:1) in /home/thenexus/public_html/includes/functions.php on line 49
+[26-Apr-2023 12:47:24 Asia/Ho_Chi_Minh] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thenexus/public_html/includes/init.php on line 2
+[26-Apr-2023 12:47:24 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thenexus/public_html/Preset.php:1) in /home/thenexus/public_html/includes/functions.php on line 49
+[26-Apr-2023 12:50:32 Asia/Ho_Chi_Minh] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thenexus/public_html/includes/init.php on line 2
+[26-Apr-2023 12:50:32 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thenexus/public_html/Preset.php:1) in /home/thenexus/public_html/includes/functions.php on line 49
+[26-Apr-2023 13:43:06 Asia/Ho_Chi_Minh] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thenexus/public_html/includes/init.php on line 2
+[26-Apr-2023 13:43:06 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thenexus/public_html/Preset.php:1) in /home/thenexus/public_html/includes/functions.php on line 49
+[26-Apr-2023 13:47:52 Asia/Ho_Chi_Minh] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thenexus/public_html/includes/init.php on line 2
+[26-Apr-2023 13:47:52 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thenexus/public_html/Preset.php:1) in /home/thenexus/public_html/includes/functions.php on line 49
+[26-Apr-2023 13:47:55 Asia/Ho_Chi_Minh] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thenexus/public_html/includes/init.php on line 2
+[26-Apr-2023 13:47:55 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thenexus/public_html/Preset.php:1) in /home/thenexus/public_html/includes/functions.php on line 49
+[26-Apr-2023 13:52:39 Asia/Ho_Chi_Minh] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thenexus/public_html/includes/init.php on line 2
+[26-Apr-2023 13:52:39 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thenexus/public_html/Preset.php:1) in /home/thenexus/public_html/includes/functions.php on line 49
+[26-Apr-2023 13:52:42 Asia/Ho_Chi_Minh] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thenexus/public_html/includes/init.php on line 2
+[26-Apr-2023 13:52:42 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thenexus/public_html/Preset.php:1) in /home/thenexus/public_html/includes/functions.php on line 49
+[26-Apr-2023 13:54:40 Asia/Ho_Chi_Minh] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thenexus/public_html/includes/init.php on line 2
+[26-Apr-2023 13:54:40 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thenexus/public_html/Preset.php:1) in /home/thenexus/public_html/includes/functions.php on line 49
+[26-Apr-2023 13:55:51 Asia/Ho_Chi_Minh] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thenexus/public_html/includes/init.php on line 2
+[26-Apr-2023 13:55:51 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thenexus/public_html/Preset.php:1) in /home/thenexus/public_html/includes/functions.php on line 49
+[26-Apr-2023 14:04:14 Asia/Ho_Chi_Minh] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thenexus/public_html/includes/init.php on line 2
+[26-Apr-2023 14:04:14 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thenexus/public_html/Preset.php:1) in /home/thenexus/public_html/includes/functions.php on line 49
+[26-Apr-2023 14:19:21 Asia/Ho_Chi_Minh] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thenexus/public_html/includes/init.php on line 2
+[26-Apr-2023 14:19:21 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thenexus/public_html/Preset.php:1) in /home/thenexus/public_html/includes/functions.php on line 49
